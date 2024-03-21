@@ -19,7 +19,7 @@
 
 - **오라클 21c 설치**:  🐧 [오라클 21c 설치](https://cafe.daum.net/oracleoracle/SoJs/4)
 
-- **오라클 21c 용 .bash_profile**:  🗒️ [.bash_profile](https://cafe.daum.net/oracleoracle/SoJs/6)
+- **오라클 21c 용 .bash_profile**:  📄 [.bash_profile](https://cafe.daum.net/oracleoracle/SoJs/6)
 
 
 &nbsp;
